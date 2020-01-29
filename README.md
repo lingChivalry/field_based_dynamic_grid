@@ -5,5 +5,3 @@ This git is a MATLAB version for field-based dynamic grid algorithm. We will upd
 ## Results Visualization
 <img src="results.png" width="800" />
 
-## How to use it
-
